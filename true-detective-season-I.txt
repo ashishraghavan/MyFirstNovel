@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 tdlover-1 made this change.
+=======
+tdlover_2 edited this.
+>>>>>>> 9cccc92 (true detective lover 2 commit to branch tdlover_2)
 masterpiece of story-telling & direction. You get hooked from opening sequence itself. Also, it was most probably shot in a remote mid-western region in United States.
